@@ -1,0 +1,19 @@
+{
+    "name": "lukesnow91/elementorpro",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "theme"
+    ],
+    "homepage": "https://github.com/lukesnow91/elementorpro",
+    "authors": [
+        {
+            "name": "elementorpro",
+            "homepage": "https://spiritutopia.com"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">5.6"
+    }
+}
